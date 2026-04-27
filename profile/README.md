@@ -21,7 +21,6 @@ We are working towards an Apache-2.0 dual-licence for the shared core engine (tr
 
 - Website: [juralabs.org](https://juralabs.org)
 - Email: hello@juralabs.org
-- Security: [security@juralabs.org](mailto:security@juralabs.org)
 
 ## Standards & affiliations (in progress)
 
