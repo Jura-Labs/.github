@@ -15,7 +15,7 @@ A Community Interest Company has an asset lock and a community-purpose statement
 
 Our published software is released under [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0). Free for non-commercial, education, research, journalism, and cultural use. Commercial licences available — see each project's README.
 
-We are working towards an Apache-2.0 dual-licence for the shared core engine (tracked as JTV-44 in our roadmap).
+We will launch an Apache-2.0 dual-licence for Jura Trace in a later release. 
 
 ## Reach us
 
