@@ -26,8 +26,7 @@ We are working towards an Apache-2.0 dual-licence for the shared core engine (tr
 
 - C2PA Content Credentials Validator track — submission under review
 - OpenSSF Best Practices Badge — pursued post-Apache-2.0 dual-licence
-- Digital Public Goods Alliance — pursued post-Apache-2.0 dual-licence
 
 ---
 
-*Jura Labs is registered with Companies House and the CIC Regulator (United Kingdom). All directors are unpaid; surplus is reinvested in the social mission.*
+*Jura Labs is registered with Companies House and the CIC Regulator (United Kingdom).*
